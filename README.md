@@ -1,2 +1,2 @@
-#sample screenshots
--<img src="images/screenshot1.png">
+# sample screenshots
+- <img src="images/screenshot1.png">
